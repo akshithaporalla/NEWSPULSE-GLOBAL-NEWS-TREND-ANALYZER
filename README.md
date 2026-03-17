@@ -19,18 +19,23 @@ Pandas
 
 Global News Trend Analyzer is a project developed using Python and Streamlit.
 The main goal of this project is to collect news data, analy
+
 📊 PROJECT MILESTONES
 
 Milestone 1
+
 Collect news data and store the raw news dataset.
 
 Milestone 2
+
 Clean the data and remove unnecessary words or symbols.
 
 Milestone 3
+
 Apply NLP techniques like sentiment analysis and keyword extraction.
 
 Milestone 4
+
 Create the final dashboard using Streamlit to visualize news trends.
 
 ⭐ FEATURES
