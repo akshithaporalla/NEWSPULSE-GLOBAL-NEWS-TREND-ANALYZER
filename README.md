@@ -1,6 +1,7 @@
 # NEWSPULSE-GLOBAL-NEWS-TREND-ANALYZER
 
 📌 ABOUT THE PROJECT
+
 Global News Trend Analyzer is a project developed using Python and Streamlit.
 The main goal of this project is to collect news data, analyze it, and display the results through a simple dashboard.
 
@@ -19,6 +20,7 @@ Pandas
 Global News Trend Analyzer is a project developed using Python and Streamlit.
 The main goal of this project is to collect news data, analy
 📊 PROJECT MILESTONES
+
 Milestone 1
 Collect news data and store the raw news dataset.
 
@@ -32,6 +34,7 @@ Milestone 4
 Create the final dashboard using Streamlit to visualize news trends.
 
 ⭐ FEATURES
+
 News data collection
 Data cleaning
 Sentiment analysis
@@ -39,6 +42,7 @@ Trending keyword detection
 Interactive dashboard
 
 ⚙️ HOW TO RUN THE PROJECT
+
 Install required libraries:
 
 pip install -r requirements.txt
@@ -48,6 +52,7 @@ Run the Streamlit application:
 streamlit run app.py
 
 👨‍💻 AUTHOR
+
 This project was developed as part of an academic / internship project.
 
 Releases
